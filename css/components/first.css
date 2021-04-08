@@ -150,7 +150,7 @@
 .main-slider__play {
 	position: absolute;
 	left: 50%;
-	top: 50%;
+	top: 35%;
 	transform: translate(-50%, -50%);
 	width: 32px;
 	height: 41px;
