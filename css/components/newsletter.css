@@ -7,7 +7,7 @@
 	position: relative;
 	--newsletter-gap: 133px;
 	border-radius: 8px;
-	background-image: url("/img/newsletter-cover.jpg");
+	background-image: url("img/newsletter-cover.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;

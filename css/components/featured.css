@@ -1,5 +1,5 @@
 .featured {
-	background-image: url('/img/featured.jpg');
+	background-image: url('img/featured.jpg');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
