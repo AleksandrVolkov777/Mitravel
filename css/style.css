@@ -1,20 +1,20 @@
-@import url("_normalize.css");
-@import url("_fonts.css");
-@import url("_overall.css");
-@import url("_vendor.css");
-@import url("_global.css");
-@import url("_variables.css");
+@import "_normalize.css";
+@import "_fonts.css";
+@import "_overall.css";
+@import "_vendor.css";
+@import "_global.css";
+@import "_variables.css";
 
 /* components imports */
 
-@import url("./components/_first.css");
-@import url("./components/_header.css");
-@import url("./components/_become.css");
-@import url("./components/_featured.css");
-@import url("./components/_slider.css");
-@import url("./components/_newsletter.css");
-@import url("./components/_insp.css");
-@import url("./components/_footer.css");
-@import url("./components/_media.css");
+@import "./components/_first.css";
+@import "./components/_header.css";
+@import "./components/_become.css";
+@import "./components/_featured.css";
+@import "./components/_slider.css";
+@import "./components/_newsletter.css";
+@import "./components/_insp.css";
+@import "./components/_footer.css";
+@import "./components/_media.css";
 
 
